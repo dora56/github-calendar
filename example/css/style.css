@@ -17,6 +17,7 @@
 
 body {
     font-family: 'Cutive Mono', monospace;
+        background-color: #191919;
 }
 
 @media(min-width:992px){.bag.fixed{width: 784px;}}
@@ -32,8 +33,12 @@ pre {
 
 .calendar {
     margin-bottom: 10px;
+    color: #c9d1d9;
 }
 
+.contrib-number {
+    color: #ddd;
+}
 p {
     color: #444444;
 }
